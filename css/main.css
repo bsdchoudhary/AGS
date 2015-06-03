@@ -32,3 +32,31 @@ a:hover{
 .pull-right{
 	padding-top: 0px;
 }
+
+
+#header-logo{
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+.upload-drop-zone {
+  height: 200px;
+  border-width: 2px;
+  margin-bottom: 20px;
+}
+#dropZone{
+	width: 100%;
+}
+
+/* skin.css Style*/
+.upload-drop-zone {
+  color: #ccc;
+  border-style: dashed;
+  border-color: #ccc;
+  line-height: 200px;
+  text-align: center
+}
+.upload-drop-zone.drop {
+  color: #222;
+  border-color: #222;
+}
