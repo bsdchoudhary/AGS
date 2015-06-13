@@ -1,0 +1,6 @@
+
+
+CREATE TABLE IF NOT EXISTS `keys` (
+  `tag` text NOT NULL,
+  `keyword` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
